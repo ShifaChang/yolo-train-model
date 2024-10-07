@@ -1,1 +1,2 @@
 Yv8-PE2-20240930T150502Z-001.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
